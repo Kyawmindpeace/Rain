@@ -1,8 +1,7 @@
 body {
     background-color: azure;
+  
     
-
-
 }
 
 title{
@@ -13,9 +12,9 @@ h1 {
     
     color: #5ca0d3;
     font-family: 'Sacramento', cursive;
-    font-family: 'Pacifico', cursive;
-    font-family: 'Gloria Hallelujah', cursive;          
-    
+    font-family: 'Pacifico', cursive; 
+    font-size: 40px;          
+  
 }
 
 h2 {
@@ -24,7 +23,8 @@ h2 {
     margin: 0px, 0px, 0px, 0px;
     font-family: 'Sacramento', cursive;
     font-family: 'Pacifico', cursive;
-    font-family: 'Gloria Hallelujah', cursive;e;
+    text-align: left;
+  
     
 }
 
@@ -63,6 +63,7 @@ p {
     font-family: 'Pacifico', cursive;
     font-family: 'Gloria Hallelujah', cursive;
     
+
     
 }
 
@@ -70,4 +71,19 @@ small{
     font-family: verdana, sans-serif;
    
 }
+
+img{
+    text-align: left;
+}
+
+.image{
+  position: relative;
+  left: 20px;
+
+}
+
+.peace{
+   padding: 10px;
+   background-color: skyblue;
+}  
 
